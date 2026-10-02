@@ -32,8 +32,22 @@ good.
 12. [the letters](https://github.com/dbuchacher/act/blob/main/walk/12-the-letters.md): consonants and vowels, meaning, the question
 13. [the words](https://github.com/dbuchacher/act/blob/main/walk/13-the-words.md): every term in one list, with the usual reading beside ours
 
-the same files as plain text: replace `github.com/dbuchacher/act/blob/`
-with `raw.githubusercontent.com/dbuchacher/act/` in any link above.
+for a program: the same fourteen as plain text, in order.
+
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/00-how-to-read.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/01-the-floor.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/02-the-wave.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/03-the-board.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/04-differ.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/05-the-move.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/06-the-count.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/07-the-ring.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/08-the-kit.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/09-the-machine.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/10-two-selves.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/11-the-horizon.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/12-the-letters.md
+    https://raw.githubusercontent.com/dbuchacher/act/main/walk/13-the-words.md
 
 ## for a reader of the may 2026 snapshot
 
