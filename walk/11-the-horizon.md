@@ -396,7 +396,7 @@ a count reads the same from every place: section 11.4 found that a census needs 
 path, so it needs no one chair.
 
 this section is where the tags of this text are walked. every law since
-file 1 has worn, in brackets, how it is known, and file 0 could only list
+file 1 has worn, in brackets, how it is known, and the readme could only list
 the tags. they are the two channels, spelled out.
 
     counted      census: a count anyone can run again
